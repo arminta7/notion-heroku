@@ -1,6 +1,6 @@
 # This repository is ⚰️ ARCHIVED ⚰️
 
-`notion-heroku` as an individual project has been sunsetted and merged into [`notion-toolbox`](https://github.com/kevinjalbert/notion-toolbox). In `notion-toolbox` is where this project lives on. The merge happened on December 27, 2019.
+`notion-heroku` as an ind project has been sunsetted and merged into [`notion-toolbox`](https://github.com/kevinjalbert/notion-toolbox). In `notion-toolbox` is where this project lives on. The merge happened on December 27, 2019.
 
 ---
 
